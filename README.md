@@ -1,6 +1,5 @@
-#  Kotlin Kata Base
-️![kotlin](./kotlin.png)
-[//]: # ([![Java CI with Maven]&#40;https://github.com/rstraub/java-kata-base/actions/workflows/maven.yml/badge.svg&#41;]&#40;https://github.com/rstraub/java-kata-base/actions/workflows/maven.yml&#41;)
+# Kotlin Kata Base
+[![Kotlin CI with Gradle](https://github.com/rstraub/kotlin-kata-base/actions/workflows/gradle.yml/badge.svg)](https://github.com/rstraub/kotlin-kata-base/actions/workflows/gradle.yml)
 
 Starter project for Code Katas in Kotlin. Batteries included.
 
