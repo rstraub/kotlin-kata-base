@@ -28,7 +28,7 @@ dependencies {
     testImplementation("io.kotest:kotest-property:5.4.2")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.0")
     testImplementation("io.mockk:mockk:1.12.8")
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.9.0")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.9.1")
 }
 
 tasks.withType<Test> {
