@@ -25,7 +25,7 @@ dependencies {
     // Use the Kotlin JDK 8 standard library.
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     testImplementation("io.kotest:kotest-runner-junit5:5.5.5")
-    testImplementation("io.kotest:kotest-property:5.5.4")
+    testImplementation("io.kotest:kotest-property:5.5.5")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.2")
     testImplementation("io.mockk:mockk:1.13.4")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.9.2")
