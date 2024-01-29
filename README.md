@@ -9,8 +9,6 @@ Included:
 |-------------------------------------------------------|------------------------------|
 | [Gradle](https://gradle.org)                          | Build Tool                   |
 | [Junit 5](https://junit.org/junit5/)                  | Testing Library              |
-| [Kotest](https://kotest.io)                           | Testing Library              |
-| [Mockk](https://mockk.io)                             | Mocking Library              |
 | [Github Actions](https://github.com/features/actions) | Continuous Integration       |
 | [Github Dependabot](https://github.com/dependabot)    | Automatic Dependency Updates |
 
@@ -28,13 +26,13 @@ to install the required sdks. You can also install them yourself.
 ## Run
 
 ```shell
-gradle run
+./gradlew run
 ```
 
 ## Compile
 
 ```shell
-gradle compile
+./gradlew compile
 ```
 
 ## Tests
@@ -42,5 +40,5 @@ gradle compile
 Run unit tests:
 
 ```shell
-gradle test
+./gradlew test
 ```
