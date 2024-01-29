@@ -7,5 +7,4 @@ class App {
     fun hello() = "Hello, World!"
 }
 
-
 fun main() = print(App().hello())

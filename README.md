@@ -1,4 +1,5 @@
 # Kotlin Kata Base
+
 [![Kotlin CI with Gradle](https://github.com/rstraub/kotlin-kata-base/actions/workflows/gradle.yml/badge.svg)](https://github.com/rstraub/kotlin-kata-base/actions/workflows/gradle.yml)
 
 Starter project for Code Katas in Kotlin. Batteries included.
@@ -9,6 +10,7 @@ Included:
 |-------------------------------------------------------|------------------------------|
 | [Gradle](https://gradle.org)                          | Build Tool                   |
 | [Junit 5](https://junit.org/junit5/)                  | Testing Library              |
+| [Ktlint](https://pinterest.github.io/ktlint/latest/)  | Linting Plugin               |
 | [Github Actions](https://github.com/features/actions) | Continuous Integration       |
 | [Github Dependabot](https://github.com/dependabot)    | Automatic Dependency Updates |
 
