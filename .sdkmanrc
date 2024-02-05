@@ -2,4 +2,4 @@
 # Add key=value pairs of SDKs to use below
 java=21.0.2-tem
 kotlin=1.9.21
-gradle=8.5
+gradle=8.6
