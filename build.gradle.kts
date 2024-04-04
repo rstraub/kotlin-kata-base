@@ -27,6 +27,9 @@ tasks.withType<Test> {
 
 kotlin {
     jvmToolchain(21)
+    compilerOptions {
+        allWarningsAsErrors = true
+    }
 }
 
 application {
